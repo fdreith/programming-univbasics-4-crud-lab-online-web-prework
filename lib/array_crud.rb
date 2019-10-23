@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  create_an_array.index ["wow"]
+  create_an_array.index [wow]
 
 def retrieve_first_element_from_array(array)
   create_an_array [0]
