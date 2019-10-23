@@ -22,10 +22,11 @@ def remove_element_from_start_of_array(array)
   wow = create_an_array.shift
 end
 
-  create_an_array [2]
+def retrieve_element_from_array_index(array, index_number)
+  create_an_array []
 
 def retrieve_first_element_from_array(array)
-  create_an_array [0]
+  create_an_array [wow]
 end
 
 def retrieve_last_element_from_array(array)
