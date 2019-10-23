@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["wow", "The Dodos", "American Football", "arrays!"]
+  ["wow", "I", "American Football", "arrays!"]
 end
 
 def add_element_to_end_of_array(array, element)
@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  create_an_array [2]
+  create_an_array [1]
 end
 
 def retrieve_first_element_from_array(array)
